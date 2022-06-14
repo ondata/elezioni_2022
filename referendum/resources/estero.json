@@ -1,0 +1,1096 @@
+{
+    "int": {
+        "file": "GEOPOLITICA REFERENDUM ESTERO",
+        "area": "E",
+        "t_ele": "Referendum",
+        "dt_ele": 20220612000000
+    },
+    "enti": [
+        {
+            "cod": "1000",
+            "desc": "EUROPA",
+            "tipo": "ER",
+            "dt_agg": 20220609155405
+        },
+        {
+            "cod": "1220",
+            "desc": "ALBANIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1221",
+            "desc": "ANDORRA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1222",
+            "desc": "AUSTRIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1223",
+            "desc": "BELGIO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1224",
+            "desc": "BULGARIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1225",
+            "desc": "REPUBBLICA CECA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1226",
+            "desc": "STATO CITTA' DEL VATICANO",
+            "tipo": "NA",
+            "dt_agg": 20220609155405
+        },
+        {
+            "cod": "1227",
+            "desc": "DANIMARCA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1228",
+            "desc": "FINLANDIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1229",
+            "desc": "FRANCIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1230",
+            "desc": "GERMANIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1231",
+            "desc": "REGNO UNITO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1232",
+            "desc": "GRECIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1233",
+            "desc": "IRLANDA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1234",
+            "desc": "ISLANDA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1236",
+            "desc": "SERBIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1237",
+            "desc": "LIECHTENSTEIN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1238",
+            "desc": "LUSSEMBURGO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1239",
+            "desc": "MALTA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1240",
+            "desc": "MONACO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1241",
+            "desc": "NORVEGIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1242",
+            "desc": "PAESI BASSI",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1243",
+            "desc": "POLONIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1244",
+            "desc": "PORTOGALLO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1245",
+            "desc": "ROMANIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1246",
+            "desc": "SAN MARINO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1248",
+            "desc": "SPAGNA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1249",
+            "desc": "SVEZIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1250",
+            "desc": "SVIZZERA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1251",
+            "desc": "UNGHERIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1252",
+            "desc": "FEDERAZIONE RUSSA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1254",
+            "desc": "LITUANIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1255",
+            "desc": "LETTONIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1256",
+            "desc": "ESTONIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1257",
+            "desc": "BIELORUSSIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1259",
+            "desc": "CROAZIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1308",
+            "desc": "CIPRO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1333",
+            "desc": "TURCHIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1450",
+            "desc": "SLOVENIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1451",
+            "desc": "BOSNIA-ERZEGOVINA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1452",
+            "desc": "SLOVACCHIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1453",
+            "desc": "MACEDONIA DEL NORD",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1458",
+            "desc": "MOLDOVA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1471",
+            "desc": "MONTENEGRO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "1472",
+            "desc": "KOSOVO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2000",
+            "desc": "AMERICA MERIDIONALE",
+            "tipo": "ER",
+            "dt_agg": null
+        },
+        {
+            "cod": "2260",
+            "desc": "ARGENTINA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2262",
+            "desc": "BOLIVIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2263",
+            "desc": "BRASILE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2265",
+            "desc": "CILE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2266",
+            "desc": "COLOMBIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2271",
+            "desc": "ECUADOR",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2279",
+            "desc": "PARAGUAY",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2280",
+            "desc": "PERU'",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2282",
+            "desc": "TRINIDAD E TOBAGO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2283",
+            "desc": "URUGUAY",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2284",
+            "desc": "VENEZUELA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2285",
+            "desc": "GUYANA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "2288",
+            "desc": "SURINAME",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3000",
+            "desc": "AMERICA SETTENTRIONALE E CENTRALE",
+            "tipo": "ER",
+            "dt_agg": null
+        },
+        {
+            "cod": "3261",
+            "desc": "BAHAMAS",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3264",
+            "desc": "CANADA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3267",
+            "desc": "COSTA RICA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3268",
+            "desc": "CUBA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3269",
+            "desc": "REPUBBLICA DOMINICANA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3270",
+            "desc": "EL SALVADOR",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3272",
+            "desc": "GIAMAICA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3273",
+            "desc": "GUATEMALA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3274",
+            "desc": "HAITI",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3275",
+            "desc": "HONDURAS",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3276",
+            "desc": "MESSICO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3277",
+            "desc": "NICARAGUA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3278",
+            "desc": "PANAMA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3281",
+            "desc": "STATI UNITI D'AMERICA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3286",
+            "desc": "BARBADOS",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3287",
+            "desc": "BELIZE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3289",
+            "desc": "GRENADA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3294",
+            "desc": "ANTIGUA E BARBUDA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3295",
+            "desc": "SAINT LUCIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3296",
+            "desc": "SAINT VINCENT E GRENADINE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "3297",
+            "desc": "SAINT KITTS E NEVIS",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4000",
+            "desc": "AFRICA ASIA OCEANIA ANTARTIDE",
+            "tipo": "ER",
+            "dt_agg": 20220609155613
+        },
+        {
+            "cod": "4290",
+            "desc": "SAMOA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4291",
+            "desc": "TONGA",
+            "tipo": "NA",
+            "dt_agg": 20220609155613
+        },
+        {
+            "cod": "4292",
+            "desc": "VANUATU",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4301",
+            "desc": "ARABIA SAUDITA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4302",
+            "desc": "AUSTRALIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4304",
+            "desc": "MYANMAR",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4305",
+            "desc": "CAMBOGIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4306",
+            "desc": "SRI LANKA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4307",
+            "desc": "REPUBBLICA POPOLARE CINESE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4309",
+            "desc": "REPUBBLICA DI COREA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4310",
+            "desc": "FILIPPINE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4311",
+            "desc": "GIAPPONE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4312",
+            "desc": "GIORDANIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4313",
+            "desc": "INDIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4314",
+            "desc": "INDONESIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4315",
+            "desc": "IRAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4316",
+            "desc": "IRAQ",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4317",
+            "desc": "ISRAELE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4318",
+            "desc": "KUWAIT",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4319",
+            "desc": "LAOS",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4320",
+            "desc": "LIBANO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4321",
+            "desc": "MALAYSIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4322",
+            "desc": "MONGOLIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4323",
+            "desc": "NEPAL",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4324",
+            "desc": "NUOVA ZELANDA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4325",
+            "desc": "OMAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4326",
+            "desc": "PAKISTAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4327",
+            "desc": "QATAR",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4329",
+            "desc": "SINGAPORE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4331",
+            "desc": "THAILANDIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4337",
+            "desc": "VIETNAM",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4338",
+            "desc": "BANGLADESH",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4339",
+            "desc": "FIGI",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4340",
+            "desc": "EMIRATI ARABI UNITI",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4341",
+            "desc": "BAHREIN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4342",
+            "desc": "MALDIVE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4343",
+            "desc": "PAPUA NUOVA GUINEA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4344",
+            "desc": "ISOLE SALOMONE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4345",
+            "desc": "TAIWAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4348",
+            "desc": "KAZAKHSTAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4349",
+            "desc": "UZBEKISTAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4350",
+            "desc": "ALGERIA",
+            "tipo": "NA",
+            "dt_agg": 20220609150244
+        },
+        {
+            "cod": "4351",
+            "desc": "BURKINA FASO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4352",
+            "desc": "BURUNDI",
+            "tipo": "NA",
+            "dt_agg": 20220609150039
+        },
+        {
+            "cod": "4353",
+            "desc": "CAMERUN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4355",
+            "desc": "CONGO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4356",
+            "desc": "REPUBBLICA DEMOCRATICA DEL CONGO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4357",
+            "desc": "COSTA D'AVORIO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4358",
+            "desc": "BENIN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4359",
+            "desc": "ETIOPIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4360",
+            "desc": "GABON",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4361",
+            "desc": "GAMBIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4362",
+            "desc": "GHANA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4363",
+            "desc": "GUINEA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4364",
+            "desc": "KENYA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4366",
+            "desc": "LIBIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4367",
+            "desc": "MADAGASCAR",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4368",
+            "desc": "MALAWI",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4369",
+            "desc": "MALI",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4370",
+            "desc": "MAROCCO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4371",
+            "desc": "MAURITANIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4372",
+            "desc": "NIGER",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4373",
+            "desc": "NIGERIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4374",
+            "desc": "EGITTO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4377",
+            "desc": "RUANDA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4378",
+            "desc": "SENEGAL",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4380",
+            "desc": "SOMALIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4381",
+            "desc": "SUD AFRICA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4382",
+            "desc": "SUDAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4383",
+            "desc": "TANZANIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4384",
+            "desc": "TOGO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4385",
+            "desc": "TUNISIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4386",
+            "desc": "UGANDA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4387",
+            "desc": "ZAMBIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4388",
+            "desc": "NAMIBIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4389",
+            "desc": "BOTSWANA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4390",
+            "desc": "MAURITIUS",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4391",
+            "desc": "GUINEA EQUATORIALE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4392",
+            "desc": "MOZAMBICO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4393",
+            "desc": "ANGOLA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4395",
+            "desc": "GIBUTI",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4396",
+            "desc": "SEYCHELLES",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4397",
+            "desc": "CAPO VERDE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4398",
+            "desc": "GUINEA BISSAU",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4399",
+            "desc": "ESWATINI",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4400",
+            "desc": "SAO TOME' E PRINCIPE",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4401",
+            "desc": "LESOTHO",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4454",
+            "desc": "ARMENIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4455",
+            "desc": "AZERBAIGIAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4456",
+            "desc": "GEORGIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4457",
+            "desc": "KIRGHIZISTAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4459",
+            "desc": "TAGIKISTAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4460",
+            "desc": "TURKMENISTAN",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4461",
+            "desc": "BRUNEI",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4463",
+            "desc": "ISOLE MARSHALL",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4464",
+            "desc": "STATI FEDERATI DI MICRONESIA",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4466",
+            "desc": "PALAU",
+            "tipo": "NA",
+            "dt_agg": null
+        },
+        {
+            "cod": "4888",
+            "desc": "CIRCOSCRIZIONE AUTONOMA",
+            "tipo": "NA",
+            "dt_agg": null
+        }
+    ]
+}
