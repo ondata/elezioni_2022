@@ -11,7 +11,8 @@ Ad oggi - 15 giugno 2022 - il Ministero dell'Interno non rende scaricabili quest
 
 ## Scrutini Comuni Italiani
 
-Il file con gli **scrutini** per **comune** è [`scrutini.csv`](referendum/output/scrutini.csv).<br>
+Il file con gli **scrutini** per **comune** è [`scrutini.csv`](referendum/output/scrutini.csv). Lo schema dati è invariato rispetto all'originale, con la sola aggiunta del codice Istat dei Comuni.<br>
+
 Qui sotto 3 righe di esempio:
 
 | comune | cod | desc | sz_perv | vot_m | vot_f | vot_t | perc_vot | sk_bianche | sk_nulle | sk_contestate | voti_si | voti_no | perc_si | perc_no | dt_agg | CODICE ISTAT |
