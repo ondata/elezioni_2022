@@ -26,7 +26,7 @@ rm "$folder"/referendum/rawdata/scrutini/estero/*
 rm "$folder"/referendum/processing/scrutini/*
 
 # scarica anagrafica ripartizioni territoriali italiane
-curl -kL "https://elezioni.interno.gov.it/tornate/20220612/enti/comunali_territoriale_italia.json" >"$folder"/referendum/resources/ita.json
+curl -kL "https://elezioni.interno.gov.it/tornate/20220612/enti/comunali_territoriale_italia.json"  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' -H 'Accept-Encoding: gzip, deflate, br' -H 'X-Requested-With: XMLHttpRequest' -H 'DNT: 1' -H 'Connection: keep-alive' -H 'Referer: https://elezioni.interno.gov.it/comunali/scrutini/20220612/scrutiniGI180670040' -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: same-origin' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' -H 'TE: trailers' --compressed >"$folder"/referendum/resources/ita.json
 
 
 # converti anagrafica in TSV
@@ -85,7 +85,7 @@ mlr --j2c unsparsify "$folder"/referendum/processing/scrutini-anagrafica.jsonl >
 mlr --j2c unsparsify "$folder"/referendum/processing/scrutini.jsonl >"$folder"/referendum/processing/scrutini.csv
 
 # scarica anagrafica stati esteri
-curl -kL "https://elezioni.interno.gov.it/tornate/20220612/enti/referendum_territoriale_estero.json" >"$folder"/referendum/resources/estero.json
+curl -kL "https://elezioni.interno.gov.it/tornate/20220612/enti/referendum_territoriale_estero.json"  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' -H 'Accept-Encoding: gzip, deflate, br' -H 'X-Requested-With: XMLHttpRequest' -H 'DNT: 1' -H 'Connection: keep-alive' -H 'Referer: https://elezioni.interno.gov.it/comunali/scrutini/20220612/scrutiniGI180670040' -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: same-origin' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' -H 'TE: trailers' --compressed >"$folder"/referendum/resources/estero.json
 
 # converti anagrafica in TSV
 jq <"$folder"/referendum/resources/estero.json '.enti' | mlr --j2t unsparsify then filter '$tipo=="NA"' then cut -f cod,desc then put -S '$ER="0".sub($cod,"^([0-9]{1})(.+)$","\1");$cod=sub($cod,"^[0-9]","")' | tail -n +2 >"$folder"/referendum/resources/esteroCM.tsv
