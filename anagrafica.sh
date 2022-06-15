@@ -2,8 +2,6 @@
 
 ### requisiti ###
 # miller https://github.com/johnkerl/miller
-# gnu parallel https://www.gnu.org/software/parallel/
-# jq https://stedolan.github.io/jq/
 ### requisiti ###
 
 set -x
